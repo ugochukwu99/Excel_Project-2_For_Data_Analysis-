@@ -22,3 +22,9 @@ _This project uses data I obtained through the YouTube channel DataWithDecision3
   - Slicers for interactive filtering
  
     ## 🧭 Project Navigation
+
+- 📈 [ Business Questions & Analysis](Assets/final_project/project_analysis.md)
+- 📁 [Final project](Assets/final_project/Kix_final_Project.xlsx)
+- 📁 [Dataset](Assets/final_project/Kix_Business_Dataset)
+
+
